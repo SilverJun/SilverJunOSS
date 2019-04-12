@@ -17,7 +17,9 @@ void sub3()
 }
 
 void sub4()
-{
+{ 
+	printf("Please listen to the music\n
+		which is John Denver's Take Me Home, Country Roads\n");
 }
 
 int main()
