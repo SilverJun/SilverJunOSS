@@ -12,6 +12,7 @@ void sub1(){
 
 void sub2()
 {
+  printf("SilverJun git pro");
 }
 
 void sub3()
