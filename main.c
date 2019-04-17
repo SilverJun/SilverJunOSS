@@ -6,6 +6,8 @@ void sub1(){
 	I never see you anymore\n
 	Come out the door\n
 	It's like you've gone away\n"
+
+	printf("test");
 }
 
 void sub2()
